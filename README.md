@@ -73,3 +73,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
  - [Golang Tutorial](https://az4zil.github.io/golang)
  - [Python Tutorial](https://az4zil.github.io/python)
+ - [Personal Website](https://az4zil.github.io/personal-website)
