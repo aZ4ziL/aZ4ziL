@@ -1,9 +1,16 @@
-<div id="header" align="center" style="margin-bottom: 2rem;">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="center" width="200">
+<div id="header" align="center" style="margin-bottom: 2rem">
+  <img src="https://media.giphy.com/media/uurtMtTKqkJda4dk8Y/giphy-downsized.gif" align="center">
 </div>
 
+&nbsp;
+
+<div align="center">
+  <img src="https://media.giphy.com/media/njfNCs9yPOFL95ZAEH/giphy-downsized.gif" width="100" height="100">
+</div>
+
+&nbsp;
+
 <div id="badges" align="center">
-  <!--<img src="https://img.shields.io/youtube/channel/subscribers/UCqLD6Vs3HG8UqfyxR1UAzXQ?style=social">-->
   <a href="https://facebook.com/fajhrinazgul">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
@@ -26,7 +33,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/349qKnoIBHK1i/giphy.gif" width="600" height="300"/>
 </div>
 
 ---
@@ -42,22 +49,43 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-fajri-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/mwlite/in/fajri-fath-ba73b1222)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-fajri-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/mwlite/in/fajri-fath-ba73b1222) 
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" title="gin-gonic" alt="gin-gonic" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="jQuery" alt="jQuery" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Go Language-00ADD8?style=for-the-badge&logo=go&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/Python%20-8BC0D0?style=for-the-badge&logo=python&logoColor=black">&nbsp;
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">&nbsp;
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">&nbsp;
+</div>
+
+---
+
+### ⚒️ Tools:
+<div>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">&nbsp;
+  <img src="https://img.shields.io/badge/GIN GONIC-0769AD?style=for-the-badge&logo=go&logoColor=white">&nbsp;
+</div>
+
+---
+
+### 🧰 Application:
+<div>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white">&nbsp;
+</div>
+
+---
+
+### 💻 System Operation:
+<div>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">&nbsp;
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white">&nbsp;
 </div>
 
 ---
