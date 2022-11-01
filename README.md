@@ -17,7 +17,7 @@
   <a href="https://www.youtube.com/channel/UCqLD6Vs3HG8UqfyxR1UAzXQ">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://instagram.com/python_procode">
+  <a href="https://instagram.com/fajhri_fath">
     <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://www.linkedin.com/mwlite/in/fajri-fath-ba73b1222">
