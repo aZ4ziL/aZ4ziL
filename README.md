@@ -43,7 +43,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :telescope: I'm use Python and Go to work.
+- :telescope: I'm use [`Go`](https://go.dev) and [`Python`](https://python.org) to work.
 
 - :seedling: Exploring Technical Content Writing.
 
